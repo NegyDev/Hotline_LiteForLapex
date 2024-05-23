@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Hotline">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Hotline-Uwu/versions/Hotline/Hotline.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
